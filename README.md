@@ -1,7 +1,7 @@
 # EduHelperAgent - Laravel Educational Chatbot
 
 ## Description
-EduHelperAgent is a simple educational chatbot built using Laravel 10.
+EduHelperAgent is a simple educational chatbot built using Laravel and LarAgent package.
 It helps school students learn basic topics in a friendly and controlled way.
 
 ## Supported Topics
