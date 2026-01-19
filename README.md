@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,37 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# EduHelperAgent - Laravel Educational Chatbot
+
+## Description
+EduHelperAgent is a simple educational chatbot built using Laravel and LarAgent package.
+It helps school students learn basic topics in a friendly and controlled way.
+
+## Supported Topics
+- Solar System
+- Fractions
+- Water Cycle
+
+## Features
+- Topic restriction
+- Short responses (under 60 words)
+- Polite student-friendly replies
+- Agent-based structure
+
+## Installation
+
+🛠 Requirements
+_____________________
+PHP 8.1+
+Laravel 10+
+Composer
+LarAgent package
+
+
+```bash
+git clone https://github.com/Shahala-k/EduCationalChatAgent.git
+cd edu-helper
+composer install
+php artisan serve
+>>>>>>> ba0bee3aa722294239688c2b8a269e170500767f
